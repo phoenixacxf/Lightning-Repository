@@ -2,7 +2,7 @@
 This is a repository for things I will be doing in my day to day life. 
 
 ## Note on Attributions
-If this repository is made public, you may use the code and programs within it however you wish. When used commercially, I do request that any code taken from this repository is attributed to me in some way (whether that be as a comment or something else). Attributions to me should refer to this repository as the Lightning-Repository, and should include the names of whatever file the code borrowed is from along with the most recent push date for that file. I should be referred to as "Phoenix Lightning" in any attributions. If you are modifying my code in any way, while I prefer that you do, you do not need to attribute me. My code is free for reference, however I doubt you'd want to use it as such.
+You may use the code and programs within this repository however you wish. When used commercially, I do request that any code taken from this repository is attributed to me in some way (whether that be as a comment or something else). Attributions to me should refer to this repository as the Lightning-Repository, and should include the names of whatever file the code borrowed is from along with the most recent push date for that file. I should be referred to as "Phoenix Lightning" in any attributions. If you are modifying my code in any way, while I prefer that you do, you do not need to attribute me. My code is free for reference, however I doubt you'd want to use it as such.
 
 For any personal use, use my code however you like with no attribution necessary.
 
