@@ -1,8 +1,35 @@
-# Lightning-Repository
-This is a repository for things I will be doing in my day to day life. 
+# Most Commonly Used Counter
+The goal is for this to count how many times each word, digram, and trigram appears, and orders the data into separate .txt files for each of these. Currently, it only counts the most used words in a file.
+
+## Install & Usage Instructions
+1. Download the file "mostused-words-beta1.0.sh" or cd to your preferred directory and enter the following into your command line: 
+```bash
+wget https://raw.githubusercontent.com/phoenixacxf/Lightning-Repository/refs/heads/Most-Commonly-Used-Counter/mostused-words-beta1.0.sh
+```
+or
+```bash
+curl -O https://raw.githubusercontent.com/phoenixacxf/Lightning-Repository/refs/heads/Most-Commonly-Used-Counter/mostused-words-beta1.0.sh
+```
+
+2. In the same directory, enter the following into your command line:
+```bash
+chmod +x mostused-words-beta1.0.sh
+```
+
+3. To run this program, download the text file you want to analyze into the same directory as mostused-words-beta1.0.sh, then enter the following into your command line:
+```bash
+./mostused-words-beta1.0.sh [your text file with its file extension]
+```
+## Dependencies
+Standard Unix utilities & the BASH shell. 
+Commands used: cat, sed, tr, sort, uniq
+
+## Compatability
+All Unix systems (macOS, Linux, etc.)
+*Note: I am a macOS user and primarily test on macOS. The only reason I trust that it will work for all Unix systems is that this uses basic Unix commands that most shells and operating systems have.*
 
 ## Note on Attributions
-If this repository is made public, you may use the code and programs within it however you wish. When used commercially, I do request that any code taken from this repository is attributed to me in some way (whether that be as a comment or something else). Attributions to me should refer to this repository as the Lightning-Repository, and should include the names of whatever file the code borrowed is from along with the most recent push date for that file. I should be referred to as "Phoenix Lightning" in any attributions. If you are modifying my code in any way, while I prefer that you do, you do not need to attribute me. My code is free for reference, however I doubt you'd want to use it as such.
+You may use the code and programs within this program however you wish. When used commercially, I do request that any code taken from this repository is attributed to me in some way (whether that be as a comment or something else). Attributions to me should refer to this repository as the Lightning-Repository, and should include the names of whatever file the code borrowed is from along with the most recent push date for that file. I should be referred to as "Phoenix Lightning" in any attributions. If you are modifying my code in any way, while I prefer that you do, you do not need to attribute me. My code is free for reference, however I doubt you'd want to use it as such.
 
 For any personal use, use my code however you like with no attribution necessary.
 
@@ -20,11 +47,11 @@ Multi-Line:
 # Author: Phoenix Lightning
 # Version Date: YYYY-MM-DD OR MM-DD-YYYY
 # License: Copyright (c) 2026 Phoenix Lightning
-# Link: https://github.com/phoenixacxf/Lightning-Repository/blob/main/borrowed-script.sh
+# Link: https://github.com/phoenixacxf/Lightning-Repository/tree/Most-Commonly-Used-Counter
 ```
 Single Line:
 ```bash
-# From [Lightning-Repository/script.sh](https://github.com/phoenixacxf/Lightning-Repository/blob/main/borrowed-script.sh) by Phoenix Lightning (YYYY-MM-DD)
+# From https://github.com/phoenixacxf/Lightning-Repository/tree/Most-Commonly-Used-Counter by Phoenix Lightning (YYYY-MM-DD)
 ```
 
 They don't need to look perfectly as shown above. These are just examples.
@@ -47,23 +74,6 @@ After the AI script:
 ```
 
 I would really rather my work is not used to train AI, but I know I can't stop that from happening, so really it's just a request. 
-
-## About Me
-Hello! My online pseudonym is Phoenix Riley Lightning. I am a Linguistics Major at UC Davis year of 2027. I am a Political Science minor and a Human Rights minor. I was born on February 7, 2006 (easier than saying my age and having to update it). I use he/they pronouns. This section is really just to explain why I'm here making a repository, and what I actually know how to do, which isn't a lot. 
-
-So first thing, I am not a coder! I'm not into STEM or computer science at all. I find it cool and there are things I'd want to be able to code, but in no way is it my focus in life. So, why am I making a git repository? Well, I'm a linguistics student, as previously mentioned. As of writing this, I am taking Linguistics 127: Text Processing and Corpus Linguistics. This class is also a computer science class, and it requires me not only to learn to use the terminal, but also to use python. As of writing this, I am two weeks into my classes, and I am already using the command line a lot to do things. Mainly textual analysis (word counts and whatnot) and file management. In this class, we are going to be using the command line and python to do some corpus linguistics work as a final project, so I'm mainly making this to store the program I create for this final project. But also, I'm just finding using the terminal fun, so I wanted to add any code files I make to a repository somewhere. 
-
-With computer science things, I am primarily a web builder, but I only really create fun sites. Well, one fun site. You will see it later. I know basic HTML and CSS. I don't know any JavaScript. I have some very minor experience with various programming languages, but not enough to do anything.
-
-So if I'm not a coder, what am I? As you could guess, I primarily consider myself a linguist, currently a Phonetician. I am a research assistant at UC Davis' Phonetics Lab primarily working on languages such as Tarifit and Darija. I mainly am doing audio segmentation on words, vowels, Voiced Onset Time, etc. but I'm also (coincidentally) working on a corpus in this program. I am also a musician, primarily a singer. But I also play piano. I also write and things. But mostly, I'm a student. Currently my plan is to go into teaching, and while I teach I will go through a PhD program in Linguistics, hopefully to become a professor. I am also thinking of law at some point, rabbinical studies (I'm Jewish), and a few other careers. Maybe even politics. Who knows? 
-
-I speak three languages: English, American Sign Language, and Toki Pona. My native language is English, and my second language is ASL. I am at a conversational level in ASL, and am Proficient/Fluent in Toki Pona. It's possible that I will make Toki Pona files as well for this repository, but that's not the most likely.
-
-I have an Associate of Arts from Los Angeles City College in Arts and Humanities. I am currently working towards a Bachelor of Arts in Linguistics at UC Davis.
-
-Just to hit onto my diversities that people typically like to support: I am Jewish, queer, and neurodivergent. However, those aren't too important, and won't really be focused in on here.
-
-For more about me, go to my [neocities1](https://phoenixfromgallifrey.neocities.org) It will provide more in depth information on my identity, hobbies, interests, projects, etc.
 
 ## System Compatability Notes
 I am a macOS user. As of the most recent publication of this Read Me file, I am using macOS Tahoe 26.2. I am NOT a Linux or Windows user. As such, all of my programs primarily work on macOS, and may have compatability issues on Linux or Windows. I don't know how to use Linux, and I don't touch Windows anymore ever since I transitioned to macOS. I'm a musician so macOS is the best device for me personally. It's also nice that it's UNIX based. If you want to modify my code to work for *your* system and would like for it to be put onto this repository, please send the code in through a pull request or email me at phoenixrealme@gmail.com. I will make an update as soon as possible.
