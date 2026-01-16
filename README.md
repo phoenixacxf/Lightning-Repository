@@ -10,13 +10,19 @@ or
 ```bash
 curl -O https://raw.githubusercontent.com/phoenixacxf/Lightning-Repository/refs/heads/Most-Commonly-Used-Counter/mostused-words-beta1.0.sh
 ```
+or
+```bash
+git clone -b Most-Commonly-Used-Counter https://github.com/phoenixacxf/Lightning-Repository.git
+```
 
-2. In the same directory, enter the following into your command line:
+2. If you used `git clone`, then cd into ./Lightning-Repository.
+
+3. In your current directory, enter the following into the command line.
 ```bash
 chmod +x mostused-words-beta1.0.sh
 ```
 
-3. To run this program, download the text file you want to analyze into the same directory as mostused-words-beta1.0.sh, then enter the following into your command line:
+4. To run this program, download the text file you want to analyze into the same directory as mostused-words-beta1.0.sh, then enter the following into your command line:
 ```bash
 ./mostused-words-beta1.0.sh [your text file with its file extension]
 ```
