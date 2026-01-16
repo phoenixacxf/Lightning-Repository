@@ -63,7 +63,7 @@ I have an Associate of Arts from Los Angeles City College in Arts and Humanities
 
 Just to hit onto my diversities that people typically like to support: I am Jewish, queer, and neurodivergent. However, those aren't too important, and won't really be focused in on here.
 
-For more about me, go to my [neocities1](https://phoenixfromgallifrey.neocities.org) It will provide more in depth information on my identity, hobbies, interests, projects, etc.
+For more about me, go to my [neocities!](https://phoenixfromgallifrey.neocities.org) It will provide more in depth information on my identity, hobbies, interests, projects, etc.
 
 ## System Compatability Notes
 I am a macOS user. As of the most recent publication of this Read Me file, I am using macOS Tahoe 26.2. I am NOT a Linux or Windows user. As such, all of my programs primarily work on macOS, and may have compatability issues on Linux or Windows. I don't know how to use Linux, and I don't touch Windows anymore ever since I transitioned to macOS. I'm a musician so macOS is the best device for me personally. It's also nice that it's UNIX based. If you want to modify my code to work for *your* system and would like for it to be put onto this repository, please send the code in through a pull request or email me at phoenixrealme@gmail.com. I will make an update as soon as possible.
