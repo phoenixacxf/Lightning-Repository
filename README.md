@@ -74,8 +74,8 @@ I am not a coder! My code will be very messy and potentially broken! If you find
 
 ## Contact Information
 It is best to contact me in the following ways:
-email: phoenixrealme@gmail.com
-Instagram: @phoenix_firebird_acxf
-Tumblr: @phoenixfromgallifrey
+1. email: phoenixrealme@gmail.com
+2. Instagram: @phoenix_firebird_acxf
+3. Tumblr: @phoenixfromgallifrey
 
 If you are searching for me on anything that isn't these, my username will either be "phoenixacxf" or "phoenixfromgallifrey". Discord is the only exception. I will not be putting my Discord on this repository. 
