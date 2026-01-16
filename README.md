@@ -36,11 +36,10 @@ Another note on this: I don't like Artificial Intelligence. As a rule, I try to 
 2. Training Data used with Claude AI is typically more ethical from my understanding.
 3. Claude AI is the preferred AI software within legal fields. Since my mom is a lawyer, I have access to the paid version of Claude. Along with this, I love legal stuff, so it is very possible that in the future I will use Claude for legal usage in my career.
 
-Any time I use Artificial Intelligence, it will be attributed as well in my comments. However its usage will be limited. There will be comments both at the start and end of the AI/AI Assisted script, shown like so:
+Any time I use Artificial Intelligence, it will be attributed as well in my comments. However its usage will be limited. There will be comments both at the start and end of the AI/AI Assisted script, similarly to how shown below:
 Before the AI script:
 ```bash
-# The following script was written partially or completely by AI and was made with the assistance of Claude Sonnet 4.5 on YYYY-MM-DD with the following prompt:
-# [Insert Prompt Here]
+# The following script was written partially or completely by AI and was made with the assistance of Claude Sonnet 4.5 on YYYY-MM-DD.
 ```
 After the AI script:
 ```bash
